@@ -3,5 +3,5 @@
 on your docker machine
 
 ```
-$ https://raw.githubusercontent.com/iganari/elasticsearch-on-alpine/master/Dockerfile
+$ wget https://raw.githubusercontent.com/iganari/elasticsearch-on-alpine/master/Dockerfile
 ```
